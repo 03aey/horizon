@@ -8,7 +8,6 @@ A weather analytics application built with React.js, providing real-time weather
 ![React](https://img.shields.io/badge/React.js-19-61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-cyan)
-[![Vercel](https://img.shields.io/badge/Vercel-Portfolio-000000?logo=vercel&logoColor=white)](https://yalok.vercel.app)
 
 ## Overview
 
@@ -105,7 +104,7 @@ Interactive Highcharts for 24-hour forecast ✅
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/alok-x0s1/horizon.git
+git clone https://github.com/03aey/horizon.git
 cd horizon
 ```
 
@@ -123,7 +122,7 @@ Start the development server with hot module replacement:
 npm run dev
 ```
 
-The app will be available at `http://localhost:5173`
+The app will be available at `localhost:5173`
 
 ## Usage Guide
 
@@ -228,8 +227,13 @@ Please ensure your code:
 - Has responsive mobile design
 - Maintains performance targets
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alok%20Yadav-181717?logo=github)](https://github.com/alok-x0s1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alok%20Yadav-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-x0s1)
-[![LinkedIn](https://img.shields.io/badge/Instagram-Alok%20Yadav-E4405F?logo=instagram&logoColor=white)](https://instagram.com/9.pnpm)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-03aey-181717?logo=github&logoColor=white)](https://github.com/03aey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2F03aey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03aey.vercel.app-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
+[![Linktree](https://img.shields.io/badge/Linktree-03aey-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/03aey)
+
 
 **Horizon** - _Weather Intelligence Redefined_ 🌤️
